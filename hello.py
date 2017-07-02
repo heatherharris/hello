@@ -1,3 +1,3 @@
 
-for i in range(0, 10):
+for i in range(0, 2):
 	print("Hello, Heather and yes, Casey S. Pumpkins!")
